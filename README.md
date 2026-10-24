@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on [VNExos Apeiron](https://github.com/vnexos/Apeiron) and [VNExos Boreas](https://github.com/vnexos/Boreas)<br>
-🌱 I’m currently learning **Spring Boot, Angular, ReactJS, ASP.NET, C++, Assembly**<br>
+🌱 I’m currently learning **C++, Assembly (x86_64, ARM64, RISC-V), and Operating System**<br>
 📫 How to reach me **tranvietdangquang@gmail.com**
 
 
